@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/improved-robofriensd-app/static/css/main.820e479a.chunk.css",
+    "main.js": "/improved-robofriensd-app/static/js/main.31ee1969.chunk.js",
+    "main.js.map": "/improved-robofriensd-app/static/js/main.31ee1969.chunk.js.map",
+    "runtime-main.js": "/improved-robofriensd-app/static/js/runtime-main.31e3fb12.js",
+    "runtime-main.js.map": "/improved-robofriensd-app/static/js/runtime-main.31e3fb12.js.map",
+    "static/css/2.31461e4f.chunk.css": "/improved-robofriensd-app/static/css/2.31461e4f.chunk.css",
+    "static/js/2.f1130e1b.chunk.js": "/improved-robofriensd-app/static/js/2.f1130e1b.chunk.js",
+    "static/js/2.f1130e1b.chunk.js.map": "/improved-robofriensd-app/static/js/2.f1130e1b.chunk.js.map",
+    "static/js/3.b70c1c92.chunk.js": "/improved-robofriensd-app/static/js/3.b70c1c92.chunk.js",
+    "static/js/3.b70c1c92.chunk.js.map": "/improved-robofriensd-app/static/js/3.b70c1c92.chunk.js.map",
+    "index.html": "/improved-robofriensd-app/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/improved-robofriensd-app/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.820e479a.chunk.css.map": "/improved-robofriensd-app/static/css/main.820e479a.chunk.css.map",
+    "static/js/2.f1130e1b.chunk.js.LICENSE.txt": "/improved-robofriensd-app/static/js/2.f1130e1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31e3fb12.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.f1130e1b.chunk.js",
+    "static/css/main.820e479a.chunk.css",
+    "static/js/main.31ee1969.chunk.js"
+  ]
+}
